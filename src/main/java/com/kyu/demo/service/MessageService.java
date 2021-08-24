@@ -1,8 +1,8 @@
-package com.key.demo.service;
+package com.kyu.demo.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.key.demo.exception.KafkaException;
+import com.kyu.demo.exception.KafkaException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.codec.ServerSentEvent;

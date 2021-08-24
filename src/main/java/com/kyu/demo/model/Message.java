@@ -1,4 +1,4 @@
-package com.key.demo.model;
+package com.kyu.demo.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

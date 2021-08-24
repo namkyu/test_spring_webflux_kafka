@@ -1,4 +1,4 @@
-package com.key.demo.exception;
+package com.kyu.demo.exception;
 
 public class KafkaException extends RuntimeException {
 

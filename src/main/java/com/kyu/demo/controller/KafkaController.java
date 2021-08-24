@@ -1,8 +1,8 @@
-package com.key.demo.controller;
+package com.kyu.demo.controller;
 
 
-import com.key.demo.model.Message;
-import com.key.demo.service.MessageService;
+import com.kyu.demo.model.Message;
+import com.kyu.demo.service.MessageService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.codec.ServerSentEvent;
 import org.springframework.web.bind.annotation.*;

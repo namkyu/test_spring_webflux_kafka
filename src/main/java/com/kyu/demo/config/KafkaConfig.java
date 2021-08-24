@@ -1,4 +1,4 @@
-package com.key.demo.config;
+package com.kyu.demo.config;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.producer.ProducerConfig;

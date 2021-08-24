@@ -1,4 +1,4 @@
-package com.key.demo.config;
+package com.kyu.demo.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;

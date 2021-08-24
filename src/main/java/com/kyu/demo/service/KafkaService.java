@@ -1,4 +1,4 @@
-package com.key.demo.service;
+package com.kyu.demo.service;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

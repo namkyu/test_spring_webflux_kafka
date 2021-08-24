@@ -1,7 +1,6 @@
-package com.key.demo;
+package com.kyu.demo;
 
-import com.key.demo.model.Message;
-import com.key.demo.service.MessageService;
+import com.kyu.demo.service.MessageService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;

@@ -1,0 +1,12 @@
+
+spring:
+  application:
+    name: test_kafka
+
+server:
+  port: 8080
+
+kafka:
+  host: localhost:9092
+  topic: javainuse-topic
+  groupId: testGroupId
